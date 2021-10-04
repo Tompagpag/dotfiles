@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = q
-	name = tom paganel
+	email = paganel.tom@gmail.com
+	name = Tom Paganel
